@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sl6i" alt="sl6i" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/isl6i1" target="blank"><img src="https://img.shields.io/twitter/follow/isl6i1?logo=twitter&style=for-the-badge" alt="isl6i1" /></a> </p>
-
 - 🌱 I’m currently learning **Machine Learning.**
 
 - 👯 I’m looking to collaborate on **Hackathons.**
