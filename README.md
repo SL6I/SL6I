@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sultan.</h1>
-<h3 align="center">3rd year AI Student at UQU.</h3>
+<h3 align="center">4th year AI Student at UQU.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sl6i" alt="sl6i" /></a> </p>
 
