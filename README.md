@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1 align="center">Hi there, I'm Sultan 👋</h1>
-  <h3 align="center">Senior AI Student at UQU 🕋</h3>
+  <h3 align="center">Senior AI Student 🕋</h3>
   
   <p align="center">
     <b> 🧠 Exploring the Mathematical Foundations of Intelligence</b><br>
